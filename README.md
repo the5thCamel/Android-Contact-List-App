@@ -1,2 +1,2 @@
-# AndroidDevelopment
-Tracks my progress for developing Android Apps
+# AndroidContactListApp
+This is a contact list app I developed for android devices
